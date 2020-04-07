@@ -8,5 +8,5 @@ This batch file is made for the purpose of any file's manipulation according to 
 
 I've compiled and made this from lot of google searches.
 It's still in process as I've hardcoded my regular expressions in the file.
-You can open and make changes according to your need in the functionc i've made, or even make your own functions by replicating other functions.
+You can open and make changes according to your need in the functions i've made, or even make your own functions by replicating other functions.
 
